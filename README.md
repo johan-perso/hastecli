@@ -66,7 +66,7 @@ $ haste-feedback
 ```
 
 
-## v1 --> v2
+## [v1](https://github.com/johan-perso/haste.terminal) --> v2
 
 * Réécriture complète du code (comme [Rickdetect](https://github.com/johan-perso/rickdetect))
 * Création d'un CLI avec plusieurs commandes (haste-create, haste-view, haste-feedback)
