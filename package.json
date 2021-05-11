@@ -1,0 +1,45 @@
+{
+  "name": "haste",
+  "version": "2.0.0",
+  "description": "Crée et voir des haste directement depuis votre terminal.",
+  "main": "create.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "haste-create": "./create.js",
+    "haste-view": "./view.js",
+    "haste-feedback": "./feedback.js"
+  },
+  "keywords": [
+    "haste",
+    "hastebin",
+    "cli",
+    "cli-app"
+  ],
+  "author": {
+    "name": "Johan",
+    "email": "contact.meniro@gmail.com",
+    "url": "https://johan-perso.glitch.me",
+    "twitter": "Johan_Stickman",
+    "discord": "Johan#8021"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "clipboardy": "^2.3.0",
+    "hastebin.js": "^1.3.2",
+    "meow": "^9.0.0",
+    "node-fetch": "^2.6.1",
+    "terminal-kit": "^2.1.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johan-perso/hastecli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/johan-perso/hastecli/issues"
+  },
+  "homepage": "https://github.com/johan-perso/hastecli#readme"
+}
