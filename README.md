@@ -1,3 +1,7 @@
+# Arrêt d'HasteCLI
+
+HasteCLI ainsi que l'edit d'Hastebin ne sont plus supportées, si vous souhaitez partager un texte ou du code, passer par [Johan Text](https://text.johanstickman.com) :)
+
 # HasteCLI
 
 HasteCLI est un client Hastebin permettant de crée et de voir des haste via des ligne de commande.
